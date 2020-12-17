@@ -1,1 +1,1 @@
-# My_first_projects
+В папке My_first_projects находятся учебные проекты, выполненные на курсе Data Science в Яндекс.Практикуме.
